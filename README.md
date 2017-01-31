@@ -1,4 +1,4 @@
-# Custom Video Player
+# Video Player with Custom Controls
 
 Live version: https://custom-video-player-js.herokuapp.com
 
