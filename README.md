@@ -1,6 +1,6 @@
 # Custom Video Player
 
-Live version: https://TBC.herokuapp.com
+Live version: https://custom-video-player-js.herokuapp.com
 
 <!-- <img src="./src/graphics/screencast.gif" width="275px" height="auto"> -->
 
