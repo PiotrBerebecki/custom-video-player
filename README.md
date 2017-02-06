@@ -7,6 +7,7 @@ Live version: https://custom-video-player-js.herokuapp.com
 ## Tech stack
 * Node
 * Vanilla JavaScript
+* Flexbox
 
 ## Getting started
 
